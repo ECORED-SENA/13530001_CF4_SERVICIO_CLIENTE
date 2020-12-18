@@ -1,0 +1,188 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","introduccion"],
+    "path": "pages/1-tema.html"
+  },
+  {
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "portafolio",
+    "title": "1. Portafolio de servicio",
+    "breadcrumb": ["Inicio","portafolio"],
+    "path": "pages/2-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "portafolio",
+        "title": "1.1 Objetivo",
+        "anchor": "objetivo"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "portafolio",
+        "title": "1.2 Tipos de comunicación",
+        "anchor": "tipos"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "respuesta",
+    "title": "2. Respuesta a usuarios",
+    "breadcrumb": ["Inicio","respuesta"],
+    "path": "pages/3-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "respuesta",
+        "title": "2.1 Manejo de contingencias",
+        "anchor": "manejo_contingencias"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "respuesta",
+        "title": "2.2 Manejo de crisis",
+        "anchor": "manejo_crisis"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "respuesta",
+        "title": "2.3 Plan de continuidad",
+        "anchor": "plan"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "respuesta",
+        "title": "2.4 Seguridad de los activos",
+        "anchor": "seguridad"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "respuesta",
+        "title": "2.5 Mala administración",
+        "anchor": "mala"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "respuesta",
+        "title": "2.6 Reorganización",
+        "anchor": "reorganizacion"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "icon": "fa fa-file-text",
+    "slug": "peticiones",
+    "title": "3. Peticiones, quejas, reclamos y sugerencias",
+    "breadcrumb": ["Inicio","peticiones"],
+    "path": "pages/4-tema.html"
+  },
+  {
+    "id": 5,
+    "icon": "fa fa-file-text",
+    "slug": "satisfaccion",
+    "title": "4. Satisfacción del cliente",
+    "breadcrumb": ["Inicio","satisfaccion"],
+    "path": "pages/5-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "satisfaccion",
+        "title": "4.1 El rendimiento percibido",
+        "anchor": "rendimiento"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "satisfaccion",
+        "title": "4.2 Las expectativas",
+        "anchor": "expectativas"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "satisfaccion",
+        "title": "4.3 Los niveles de satisfacción",
+        "anchor": "niveles"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "icon": "fa fa-file-text",
+    "slug": "encuesta",
+    "title": "5. Encuesta",
+    "breadcrumb": ["Inicio","encuesta"],
+    "path": "pages/6-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "encuesta",
+        "title": "5.1 Características de las encuestas",
+        "anchor": "caracteristicas"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "encuesta",
+        "title": "5.2 Tipos de encuesta",
+        "anchor": "tipos"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "encuesta",
+        "title": "5.3 Según su contenido",
+        "anchor": "contenido"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "encuesta",
+        "title": "5.4 Según el método o procedimiento de aplicación del cuestionario",
+        "anchor": "metodo"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "encuesta",
+        "title": "5.5 Tipos de preguntas de una encuesta",
+        "anchor": "preguntas"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "icon": "fa fa-play-circle",
+    "slug": "trazabilidad",
+    "title": "6. Trazabilidad del servicio ",
+    "breadcrumb": ["Inicio","trazabilidad"],
+    "path": "pages/7-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "trazabilidad",
+        "title": "6.1 Ventajas de la trazabilidad",
+        "anchor": "ventajas"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "trazabilidad",
+        "title": "6.2 Trazabilidad en Colombia",
+        "anchor": "colombia"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "trazabilidad",
+        "title": "6.3 Tipos de trazabilidad",
+        "anchor": "tipos"
+      }
+    ]
+  }
+]
